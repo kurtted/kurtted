@@ -1,13 +1,13 @@
 <div class="header" align="center">
     <img width="600"src="assets/github-snake.svg" alt="snake"/>
     <div class="badges">
-        <a href="https://t.me/AkioKane" target="_blank" rel="noopener noreferrer">
+        <a href="https://t.me/kurttedyt" target="_blank" rel="noopener noreferrer">
             <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram"/>
         </a>
-        <a href="https://youtube.com/@Motzey" target="_blank" rel="noopener noreferrer">
+        <a href="https://youtube.com/@mephkurtted" target="_blank" rel="noopener noreferrer">
             <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="Youtube"/>
         </a>
-        <img src="https://komarev.com/ghpvc/?username=atemm4&style=flat-square&color=blue" alt=""/>
+        <img src="https://komarev.com/ghpvc/?username=kurttedyt&style=flat-square&color=blue" alt=""/>
     </div>
     <h1>
         Hi there
@@ -16,22 +16,22 @@
 </div>
 
 <div align="center">
-    <img src="assets/programmer_girl.gif">
+    <img src="assets/anim.gif">
 </div>
 
 ---
 
 ### 👩‍💻 About Me :
-- 🔭 I’m working as a Frontend developer for building web applications.
+- 🔭 I work with a lot of languages that are interesting to me.
 
-- 🌱 Exploring Technical Leet Code.
+- 🌱 In the process of learning html & css.
 
-- ⚡ In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- ⚡ In my free time, I make bots for various social networks in different programming languages.
 
 ---
 ### ⚒️Languages and Tools:
 <div class="icons">
-    <img src="https://skillicons.dev/icons?i=cpp,py,html,css,js,bash,sqlite,linux,githubactions,django,git,vscode,pycharm&perline=7" align="center"/>
+    <img src="https://skillicons.dev/icons?i=py,cpp,cs,html,css,bash,sqlite,linux,githubactions,git,vscode,pycharm,webstorm,blender&perline=7" align="center"/>
     <br>
 </div>
 
